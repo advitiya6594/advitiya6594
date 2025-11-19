@@ -5,17 +5,17 @@
 
 <p align="center">
   <a href="mailto:a687shar@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-informational?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-a687shar@uwaterloo.ca-informational?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/advitiya-sharma-25346b277/">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ADVITIYASHARMA-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/advitiya6594">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-lightgrey?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-advitiya6594-lightgrey?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
-<h2 align="center">AI-First Software Engineering • Health Tech • Machine Learning • Full Stack Development </h2>
+<h2 align="center"> Software Engineering • Machine Learning • Full Stack Development </h2>
 
 ---
 
@@ -36,13 +36,13 @@ projects:
   - PillSync: AI-powered birth control + meds interaction checker
   - PCOS Palate: PCOS-friendly food and routine helper
   - SnapSphere: AI map for aesthetic photo spots
-development_environment: VS Code, Git, GitHub, Cursor
+development_environment: VS Code, Git, GitHub
 open_to_collaboration: Yes
 interests_outside_tech:
   - Fashion and Modelling
   - Yoga and Pilates
   - Aviation
-  - Fashion Tech
+  - Health Tech
   - Volunteering
 
 
